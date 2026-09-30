@@ -271,6 +271,27 @@ Accessibility considerations include:
 - Responsive layouts
 - Standard HTML buttons for interactive controls
 
+## Peer Code Review
+
+As part of the Project 1 peer-review requirement, I reviewed **Dins Patel's Personal Homepage** and submitted an accessibility improvement through GitHub's fork-and-pull-request workflow.
+
+- **Reviewed Repository:** [Dinspatel25/project-1-my-homepage](https://github.com/Dinspatel25/project-1-my-homepage)
+- **Reviewed Live Site:** [Dins Patel — Personal Homepage](https://dinspatel25.github.io/project-1-my-homepage/)
+- **Pull Request:** [#2 — Improve mobile menu accessibility with ARIA state updates](https://github.com/Dinspatel25/project-1-my-homepage/pull/2)
+
+### Review Contribution
+
+The review focused on improving the accessibility of the responsive mobile navigation without changing the site's visual design or layout.
+
+The pull request:
+
+- Added `aria-expanded` to communicate whether the mobile navigation is open or closed
+- Added `aria-controls` to associate each menu button with the navigation links
+- Updated JavaScript so the ARIA state changes when the menu is opened or closed
+- Updated the accessible menu label between **Open navigation menu** and **Close navigation menu**
+- Reset the accessibility state when a navigation link is selected
+- Verified the change with ESLint and Git diff checks before submission
+
 ## Screenshot
 
 ### Homepage
