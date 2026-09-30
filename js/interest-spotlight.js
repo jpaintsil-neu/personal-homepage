@@ -1,4 +1,5 @@
 const interests = {
+  /**Jharshini: I like that you split each interest content into separate data objects */
   running: {
     title: "Running",
     image: "./images/interests/running.jpg",
