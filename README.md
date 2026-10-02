@@ -35,7 +35,7 @@ The project also demonstrates:
 
 The website contains three primary pages:
 
-### Home — `index.html`
+### Home — [`index.html`](./index.html)
 
 The homepage introduces my personal and professional background and includes an interactive **Interest Spotlight**.
 
@@ -56,7 +56,7 @@ The Travel category includes an additional destination selector for:
 - Casablanca, Morocco
 - Santiago, Chile
 
-### Projects — `projects.html`
+### Projects — [`projects.html`](./projects.html)
 
 The Projects page focuses on the connection between my professional background and developing technical skills.
 
@@ -75,7 +75,7 @@ Featured projects include:
 - Airbnb Listings
 - HTML, CSS & JavaScript Self-Assessment
 
-### AI Page — `ai.html`
+### AI Page — [`ai.html`](./ai.html)
 
 The required AI-generated page is titled **Connections in the Personal Index**.
 
@@ -154,6 +154,7 @@ personal-homepage/
 │   └── screenshots/
 │       ├── personal-homepage/
 │       │   └── homepage.png
+│       │   └── thumbnail.png
 │       └── w3-validator/
 │           ├── index-html.png
 │           ├── projects-html.png
@@ -168,9 +169,8 @@ personal-homepage/
 
 The complete design documentation is available in:
 
-```text
-docs/design.md
-```
+[`docs/design.md`](./docs/design.md)
+
 
 It includes:
 
@@ -304,7 +304,6 @@ The screenshot above shows the current homepage implementation of **The Personal
 
 The final Project 1 presentation and narrated demonstration are available here:
 
-- **PowerPoint Presentation:** [John Paintsil — Personal Homepage](https://docs.google.com/presentation/d/1We2CNRAQTMShrE5W3-Aw0KLsz0AMLt6B/edit?usp=drivesdk)
 - **Google Slides Presentation:** [John Paintsil — Personal Homepage](https://docs.google.com/presentation/d/1LoFysUmaRWNKRHLY6jnE0tekepu4R69AboIgirU-Z68/edit?usp=drivesdk)
 - **Bluesky:** [@jpaintsil.bsky.social](https://bsky.app/profile/jpaintsil.bsky.social)
 - **Narrated Demo Video:** [Watch the published Bluesky post](https://bsky.app/profile/jpaintsil.bsky.social/post/3mwmhjzuhqk2s)
