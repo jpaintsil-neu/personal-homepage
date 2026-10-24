@@ -1811,6 +1811,17 @@ main > section {
   object-fit: cover;
 }
 
+/* Keep application screenshots fully visible. */
+.project-image-preview {
+  object-fit: contain;
+  background-color: var(--color-surface);
+}
+
+/* Offset project anchors below the sticky header. */
+.project-card[id] {
+  scroll-margin-top: 6rem;
+}
+
 .project-card h3,
 .project-card > p,
 .project-card .technology-tags,
