@@ -6,6 +6,14 @@ The Personal Homepage presents my background, professional journey, personal int
 
 - URL: [Live Site](https://jpaintsil-neu.github.io/personal-homepage/)
 
+## Screenshot
+
+### Homepage
+
+![The Personal Index homepage](./images/screenshots/personal-homepage/homepage.png)
+
+The screenshot above shows the current homepage implementation of **The Personal Index**.
+
 ## Author
 
 **John Paintsil**
@@ -291,14 +299,6 @@ The pull request:
 - Updated the accessible menu label between **Open navigation menu** and **Close navigation menu**
 - Reset the accessibility state when a navigation link is selected
 - Verified the change with ESLint and Git diff checks before submission
-
-## Screenshot
-
-### Homepage
-
-![The Personal Index homepage](./images/screenshots/personal-homepage/homepage.png)
-
-The screenshot above shows the current homepage implementation of **The Personal Index**.
 
 ## Presentation and Demo Video
 
